@@ -1,2 +1,2 @@
-# Project-32
-The Tower Siege Game with a score. 
+# p5.play-boilerplate
+Boiler plate for p5.play
